@@ -1,2 +1,4 @@
 # cleaner-bookmark-menu
-Zen Mod for cleaner bookmark menu
+Remove unnecessary buttons from the toolbar bookmarks button.
+
+![image](./cleaner-bookmark-menu.png)
