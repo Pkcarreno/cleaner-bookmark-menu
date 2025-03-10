@@ -8,3 +8,7 @@
 #bookmarks-menu-button #BMB_viewBookmarksToolbar {
   display: none !important;
 }
+
+#BMB_bookmarksPopup menuseparator {
+  display: none;
+}
